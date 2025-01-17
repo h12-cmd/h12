@@ -1,0 +1,6 @@
+config = {
+namescript = "h12 hub",-- tên script
+logoscript = "95735040182249",-- logo script
+tacgia = "qpojfz"-- tên tác giả
+}
+loadstring(game:HttpGet("https://raw.githubusercontent.com/realredz/BloxFruits/refs/heads/main/Source.lua"))()
