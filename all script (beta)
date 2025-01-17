@@ -1,0 +1,7 @@
+config = {
+namescript = "des vip run all",-- tên script
+logoscript = "95735040182249",-- logo script
+tacgia = "qpojfz"-- tên tác giả
+}
+loadstring(game:HttpGet("https://raw.githubusercontent.com/h12-cmd/h12/refs/heads/main/script"))()
+loadstring(game:HttpGet("https://link.trwxz.com/LS-Zee-Hub-VIP"))()
